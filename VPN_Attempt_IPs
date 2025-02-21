@@ -481,8 +481,10 @@ ITL LLC
 45.38.170.0/24
 45.38.42.0/24
 46.8.68.0/24
+# AS14956 - RouterHosting LLC
 144.172.96.0/24
 144.172.97.0/24
+#	AS10753 Internet Utilities Europe and Asia Limited
 82.163.175.49
 82.163.175.0/24
 82.163.172.0/22
