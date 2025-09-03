@@ -5841,3 +5841,53 @@ ITL LLC
 93.94.52.0/24
 #AT&T /12 just did this IP
 23.120.100.230
+# MS-ISAC sketchy ASNs
+# hostinger LLC
+185.28.22.0/24
+45.132.240.0/22
+#Stark Industries
+103.231.75.0/24
+167.172.26.49
+45.89.53.0/24
+#Secure Internet LLC
+104.250.164.0/24
+# Jingdong 360
+114.67.224.0/19
+137.184.62.34
+# Saudi Telephone
+145.82.185.0/24
+94.98.224.0/24
+# Partner Hosting
+147.45.45.0/24
+# Litenode Limited
+154.90.58.0/23
+# TE Data
+156.223.32.0/19
+#Digital Ocean
+159.223.96.0/20
+159.89.48.0/21
+159.89.80.0/20
+167.71.16.0/20
+206.81.0.0/20
+167.172.16.0/20
+162.0.233.153
+178.128.144.0/20
+67.207.80.0/20
+#Etihaud
+178.81.208.0/20
+#Velox Zone
+187.126.128.0/18
+#Canada Inc
+194.59.31.0/24
+#Packethub 
+212.32.83.0/24
+#Work Titans
+45.159.248.0/24
+#Hangzhou Alibaba
+47.117.0.0/17
+#OVH SAS
+51.75.0.0/16
+#Wholesale Internet
+69.30.192.0/18
+#Turk Telecommunication
+78.188.0.0/17
