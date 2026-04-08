@@ -6099,3 +6099,10 @@ ITL LLC
 213.166.94.0/24
 #  	AS214238 - HOST TELECOM LTD
 172.120.209.0/24
+#	AS213790 — Limited Network LTD - Iranian threat actor
+185.93.89.0/24
+192.253.248.0/24
+#AS209605 — UAB Host Baltic - Iranian threat actor
+141.98.11.0/24
+#	AS3209  - Vodafone GmbH - Iranian Threat Actor
+92.208.0.0/14
